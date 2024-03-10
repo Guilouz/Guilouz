@@ -4,6 +4,18 @@
 
 Passionate about 3D printing, modeling, firmware creation...
 
+## My repositories
+
+**Creality:**
+
+[![Creality-K1-and-K1-Max](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-and-K1-Max)](https://github.com/Guilouz/Creality-K1-and-K1-Max)
+[![Creality-K1-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K1-Extracted-Firmwares)
+
+**FLSUN:**
+
+[![Klipper-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Speeder-Pad)](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)
+[![KlipperScreen-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Speeder-Pad)](https://github.com/Guilouz/KlipperScreen-Flsun-Speeder-Pad)
+
 ## My Stats
 
 <div align="left">
