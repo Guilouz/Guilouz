@@ -6,7 +6,7 @@ Passionate about 3D printing, modeling, firmware creation...
 
 **CREALITY**
 
-[![Creality-K1-and-K1-Max](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-and-K1-Max)](https://github.com/Guilouz/Creality-K1-and-K1-Max)
+[![Creality-K1-Series](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-Series)](https://github.com/Guilouz/Creality-K1-Series)
 [![Creality-K1-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K1-Extracted-Firmwares)
 
 **FLSUN**
