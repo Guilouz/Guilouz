@@ -22,7 +22,7 @@ Passionate about 3D printing, modeling, firmware creation...
 [![Traduction-FR-BambuStudio](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-BambuStudio)](https://github.com/Guilouz/Traduction-FR-BambuStudio)
 [![Traduction-FR-OrcaSlicer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-OrcaSlicer)](https://github.com/Guilouz/Traduction-FR-OrcaSlicer)
 
-## :chart_with_upwards_trend: My Stats
+## :chart_with_upwards_trend: My stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Guilouz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="200" alt="stats graph"  />
