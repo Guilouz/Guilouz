@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Guilouz&icon=5&color=12)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilouz&label=Profile%20views&color=0e75b6&style=flat" alt="guilouz" /> </p>
 
 Passionate about 3D printing, modeling, firmware creation...
 
