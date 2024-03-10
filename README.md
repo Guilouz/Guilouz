@@ -6,7 +6,7 @@ Passionate about 3D printing, modeling, firmware creation...
 
 ## :bookmark_tabs: My repositories
 
-**Creality**
+**CREALITY**
 
 [![Creality-K1-and-K1-Max](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-and-K1-Max)](https://github.com/Guilouz/Creality-K1-and-K1-Max)
 [![Creality-K1-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K1-Extracted-Firmwares)
@@ -15,6 +15,13 @@ Passionate about 3D printing, modeling, firmware creation...
 
 [![Klipper-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Speeder-Pad)](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)
 [![KlipperScreen-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Speeder-Pad)](https://github.com/Guilouz/KlipperScreen-Flsun-Speeder-Pad)
+[![KKlipper-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer)
+[![KlipperScreen-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Super-Racer)](https://github.com/Guilouz/KlipperScreen-Flsun-Super-Racer)
+
+**SLICERS**
+
+[![Traduction-FR-BambuStudio](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-BambuStudio)](https://github.com/Guilouz/Traduction-FR-BambuStudio)
+[![Traduction-FR-OrcaSlicer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-OrcaSlicer)](https://github.com/Guilouz/Traduction-FR-OrcaSlicer)
 
 ## :chart_with_upwards_trend: My Stats
 
