@@ -2,6 +2,22 @@
 
 Passionate about 3D printing, modeling, firmware creation...
 
+## :books: My wikis
+
+**CREALITY**
+
+:globe_with_meridians: https://guilouz.github.io/Creality-K1-Series/
+
+**FLSUN V400**
+
+:globe_with_meridians: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/wiki
+
+**FLSUN SUPER RACER**
+
+:globe_with_meridians: https://guilouz.github.io/Klipper-Flsun-Super-Racer/
+
+<br />
+
 ## :bookmark_tabs: My repositories
 
 **CREALITY**
@@ -23,6 +39,8 @@ Passionate about 3D printing, modeling, firmware creation...
 [![Traduction-FR-BambuStudio](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-BambuStudio)](https://github.com/Guilouz/Traduction-FR-BambuStudio)
 [![Traduction-FR-OrcaSlicer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-OrcaSlicer)](https://github.com/Guilouz/Traduction-FR-OrcaSlicer)
 
+<br />
+
 ## :chart_with_upwards_trend: My stats
 
 <div align="left">
@@ -31,6 +49,8 @@ Passionate about 3D printing, modeling, firmware creation...
   <img src="https://streak-stats.demolab.com?user=Guilouz&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilouz&radius=16&theme=github-light&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
+
+<br />
 
 ## :heartpulse: You can support me
 <p><a href="https://ko-fi.com/Guilouz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Guilouz" /></a></p>
