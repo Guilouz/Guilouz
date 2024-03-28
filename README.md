@@ -4,7 +4,7 @@ Passionate about 3D printing, modeling, firmware creation...
 
 ## :books: My wikis
 
-**CREALITY**
+**CREALITY K1 SERIES**
 
 :globe_with_meridians: https://guilouz.github.io/Creality-K1-Series/
 
