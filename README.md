@@ -4,7 +4,7 @@ Passionate about 3D printing, modeling, firmware creation...
 
 ## :books: My wikis
 
-**CREALITY K1/KE/ENDER-3 V3 SERIES**
+**CREALITY K1 / KE / ENDER-3 V3 SERIES**
 
 :globe_with_meridians: https://guilouz.github.io/Creality-Helper-Script-Wiki
 
