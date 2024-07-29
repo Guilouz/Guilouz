@@ -34,7 +34,7 @@ Passionate about 3D printing, modeling, firmware creation...
 [![KKlipper-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer)
 [![KlipperScreen-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Super-Racer)](https://github.com/Guilouz/KlipperScreen-Flsun-Super-Racer)
 [![Klipper-Flsun-Super-Racer-Manta-M4P](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer-Manta-M4P)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer-Manta-M4P)
-[![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Flsun-S1)](https://github.com/Guilouz/Flsun-S1)
+[![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Flsun-S1-T1)](https://github.com/Guilouz/Flsun-S1-T1)
 [![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Flsun-S1-Klipper)](https://github.com/Guilouz/Flsun-S1-Klipper)
 [![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Flsun-S1-Moonraker)](https://github.com/Guilouz/Flsun-S1-Moonraker)
 
