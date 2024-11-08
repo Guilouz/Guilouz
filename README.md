@@ -26,6 +26,7 @@ Passionate about 3D printing, modeling, firmware creation...
 [![Creality-Helper-Script](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script)](https://github.com/Guilouz/Creality-Helper-Script)
 [![Creality-K1-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K1-Extracted-Firmwares)
 [![Creality-Ender3-V3-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Ender3-V3-Extracted-Firmwares)](https://github.com/Guilouz/Creality-Ender3-V3-Extracted-Firmwares)
+[![Creality-K2Plus-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K2Plus-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K2Plus-Extracted-Firmwares)
 
 **FLSUN**
 
