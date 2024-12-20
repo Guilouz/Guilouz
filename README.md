@@ -2,7 +2,7 @@
 
 Passionate about 3D printing, modeling, firmware creation...
 
-## :books: My wikis
+## :books: WIKIS
 
 **CREALITY**
 
@@ -18,7 +18,7 @@ Passionate about 3D printing, modeling, firmware creation...
 
 <br />
 
-## :bookmark_tabs: My repositories
+## :bookmark_tabs: REPOSITORIES
 
 **CREALITY**
 
@@ -46,7 +46,7 @@ Passionate about 3D printing, modeling, firmware creation...
 
 <br />
 
-## :chart_with_upwards_trend: My stats
+## :chart_with_upwards_trend: STATS
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Guilouz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="200" alt="stats graph"  />
@@ -57,5 +57,5 @@ Passionate about 3D printing, modeling, firmware creation...
 
 <br />
 
-## :heartpulse: You can support me
+## :heartpulse: YOU CAN SUPPORT ME
 <p><a href="https://ko-fi.com/Guilouz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Guilouz" /></a></p>
