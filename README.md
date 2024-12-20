@@ -58,4 +58,4 @@ Passionate about 3D printing, modeling, firmware creation...
 <br />
 
 ## :heartpulse: YOU CAN SUPPORT ME
-<p><a href="https://ko-fi.com/Guilouz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Guilouz" /></a></p>
+<p><a href="https://ko-fi.com/Guilouz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi5.png?v=3" height="50" width="210" alt="Guilouz" /></a></p>
