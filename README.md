@@ -10,7 +10,7 @@ Passionate about 3D printing, modeling, firmware creation...
 
 **FLSUN**
 
-- :globe_with_meridians: [SSH Access for FLSUN S1 / S1 Pro](https://github.com/Guilouz/Flsun-S1-T1/tree/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access)
+- :globe_with_meridians: [SSH Access for FLSUN T1 / T1 Pro](https://github.com/Guilouz/Flsun-S1-T1/tree/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access)
 
 - :globe_with_meridians: [FLSUN Speeder Pad Wiki](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/wiki)
 
