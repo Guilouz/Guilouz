@@ -4,17 +4,17 @@ Passionate about 3D printing, modeling, firmware creation...
 
 ## :books: My wikis
 
-**CREALITY K1 / KE / ENDER-3 V3 SERIES**
+**CREALITY**
 
-:globe_with_meridians: https://guilouz.github.io/Creality-Helper-Script-Wiki
+- :globe_with_meridians: [Creality Helper Script Wiki for K1 / KE / ENDER-3 V3 Series](https://guilouz.github.io/Creality-Helper-Script-Wiki)
 
-**FLSUN V400**
+**FLSUN**
 
-:globe_with_meridians: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/wiki
+- :globe_with_meridians: [SSH Access for FLSUN S1 / S1 Pro](https://github.com/Guilouz/Flsun-S1-T1/tree/main/FLSUN%20T1%20-%20T1%20Pro/Open%20Source/SSH%20Access)
 
-**FLSUN SUPER RACER**
+- :globe_with_meridians: [FLSUN Speeder Pad Wiki](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad/wiki)
 
-:globe_with_meridians: https://guilouz.github.io/Klipper-Flsun-Super-Racer/
+- :globe_with_meridians: [FLSUN Super Racer Wiki](https://guilouz.github.io/Klipper-Flsun-Super-Racer/)
 
 <br />
 
