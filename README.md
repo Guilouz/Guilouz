@@ -20,26 +20,38 @@ Passionate about 3D printing, modeling, firmware creation...
 
 ## :bookmark_tabs: REPOSITORIES
 
-**CREALITY**
+**CREALITY K2 SERIES**
 
 [![Creality-Helper-Script-Wiki](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script-K2-Wiki)](https://github.com/Guilouz/Creality-Helper-Script-K2-Wiki) 
 [![Creality-Helper-Script](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script-K2)](https://github.com/Guilouz/Creality-Helper-Script-K2)
+[![Creality-K2Plus-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K2Plus-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K2Plus-Extracted-Firmwares)
+
+**CREALITY K1 / KE / ENDER-3 V3 SERIES**
+
 [![Creality-Helper-Script-Wiki](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script-Wiki)](https://github.com/Guilouz/Creality-Helper-Script-Wiki) 
 [![Creality-Helper-Script](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script)](https://github.com/Guilouz/Creality-Helper-Script)
 [![Creality-K1-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K1-Extracted-Firmwares)
 [![Creality-Ender3-V3-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Ender3-V3-Extracted-Firmwares)](https://github.com/Guilouz/Creality-Ender3-V3-Extracted-Firmwares)
-[![Creality-K2Plus-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K2Plus-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K2Plus-Extracted-Firmwares)
 
-**FLSUN**
 
-[![Klipper-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Speeder-Pad)](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)
-[![KlipperScreen-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Speeder-Pad)](https://github.com/Guilouz/KlipperScreen-Flsun-Speeder-Pad)
-[![KKlipper-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer)
-[![KlipperScreen-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Super-Racer)](https://github.com/Guilouz/KlipperScreen-Flsun-Super-Racer)
-[![Klipper-Flsun-Super-Racer-Manta-M4P](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer-Manta-M4P)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer-Manta-M4P)
+**FLSUN S1/T1**
+
 [![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Flsun-S1-T1)](https://github.com/Guilouz/Flsun-S1-T1)
 [![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-S1)](https://github.com/Guilouz/Klipper-Flsun-S1)
 [![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-S1)](https://github.com/Guilouz/KlipperScreen-Flsun-S1)
+
+**FLSUN V400 / SPEEDER PAD**
+
+[![Klipper-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Speeder-Pad)](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)
+[![KlipperScreen-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Speeder-Pad)](https://github.com/Guilouz/KlipperScreen-Flsun-Speeder-Pad)
+
+
+**FLSUN SUPER RACER**
+
+[![KKlipper-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer)
+[![KlipperScreen-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Super-Racer)](https://github.com/Guilouz/KlipperScreen-Flsun-Super-Racer)
+[![Klipper-Flsun-Super-Racer-Manta-M4P](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer-Manta-M4P)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer-Manta-M4P)
+
 
 **SLICERS**
 
