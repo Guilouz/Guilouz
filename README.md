@@ -22,8 +22,10 @@ Passionate about 3D printing, modeling, firmware creation...
 
 **CREALITY K2 SERIES**
 
-[![Creality-Helper-Script-Wiki](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script-K2-Wiki)](https://github.com/Guilouz/Creality-Helper-Script-K2-Wiki) 
-[![Creality-Helper-Script](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script-K2)](https://github.com/Guilouz/Creality-Helper-Script-K2)
+[![Creality-Helper-Script-Wiki-K2](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script-K2-Wiki)](https://github.com/Guilouz/Creality-Helper-Script-K2-Wiki) 
+[![Creality-Helper-Script-K2](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script-K2)](https://github.com/Guilouz/Creality-Helper-Script-K2)
+[![Fluidd-K2](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Fluidd-K2)](https://github.com/Guilouz/Fluidd-K2)
+[![Mainsail-K2](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Mainsail-K2)](https://github.com/Guilouz/Mainsail-K2)
 [![Creality-K2Plus-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K2Plus-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K2Plus-Extracted-Firmwares)
 
 **CREALITY K1 / KE / ENDER-3 V3 SERIES**
