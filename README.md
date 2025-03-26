@@ -41,9 +41,10 @@ Passionate about 3D printing, modeling, firmware creation...
 **FLSUN S1/T1**
 
 [![FLSUN-S1-Open-Source-Edition](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=FLSUN-S1-Open-Source-Edition)](https://github.com/Guilouz/FLSUN-S1-Open-Source-Edition)
-[![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Flsun-S1-T1)](https://github.com/Guilouz/Flsun-S1-T1)
-[![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-S1)](https://github.com/Guilouz/Klipper-Flsun-S1)
-[![Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-S1)](https://github.com/Guilouz/KlipperScreen-Flsun-S1)
+[![FLSUN-S1-Open-Source-Edition-Dependencies](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=FLSUN-S1-Open-Source-Edition-Dependencies)](https://github.com/Guilouz/FLSUN-S1-Open-Source-Edition-Dependencies)
+[![Klipper-Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-S1)](https://github.com/Guilouz/Klipper-Flsun-S1)
+[![KlipperScreen-Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-S1)](https://github.com/Guilouz/KlipperScreen-Flsun-S1)
+[![Flsun-S1-T1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Flsun-S1-T1)](https://github.com/Guilouz/Flsun-S1-T1)
 
 **FLSUN V400 / SPEEDER PAD**
 
