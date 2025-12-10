@@ -24,49 +24,49 @@ Passionate about 3D printing, modeling, firmware creation...
 
 **CREALITY K2 SERIES**
 
-[![Creality-K2Plus-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K2Plus-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K2Plus-Extracted-Firmwares)
+[![Creality-K2Plus-Extracted-Firmwares](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Creality-K2Plus-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K2Plus-Extracted-Firmwares)
 
 **CREALITY K1 / KE / ENDER-3 V3 SERIES**
 
-[![Creality-Helper-Script-Wiki](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script-Wiki)](https://github.com/Guilouz/Creality-Helper-Script-Wiki) 
-[![Creality-Helper-Script](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script)](https://github.com/Guilouz/Creality-Helper-Script)
-[![Creality-K1-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K1-Extracted-Firmwares)
-[![Creality-Ender3-V3-Extracted-Firmwares](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Creality-Ender3-V3-Extracted-Firmwares)](https://github.com/Guilouz/Creality-Ender3-V3-Extracted-Firmwares)
+[![Creality-Helper-Script-Wiki](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script-Wiki)](https://github.com/Guilouz/Creality-Helper-Script-Wiki) 
+[![Creality-Helper-Script](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Creality-Helper-Script)](https://github.com/Guilouz/Creality-Helper-Script)
+[![Creality-K1-Extracted-Firmwares](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Creality-K1-Extracted-Firmwares)](https://github.com/Guilouz/Creality-K1-Extracted-Firmwares)
+[![Creality-Ender3-V3-Extracted-Firmwares](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Creality-Ender3-V3-Extracted-Firmwares)](https://github.com/Guilouz/Creality-Ender3-V3-Extracted-Firmwares)
 
 
 **FLSUN S1/T1**
 
-[![FLSUN-S1-Open-Source-Edition](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=FLSUN-S1-Open-Source-Edition)](https://github.com/Guilouz/FLSUN-S1-Open-Source-Edition)
-[![FLSUN-S1-Open-Source-Edition-Dependencies](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=FLSUN-S1-Open-Source-Edition-Dependencies)](https://github.com/Guilouz/FLSUN-S1-Open-Source-Edition-Dependencies)
-[![Klipper-Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-S1)](https://github.com/Guilouz/Klipper-Flsun-S1)
-[![KlipperScreen-Flsun-S1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-S1)](https://github.com/Guilouz/KlipperScreen-Flsun-S1)
-[![Flsun-S1-T1](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Flsun-S1-T1)](https://github.com/Guilouz/Flsun-S1-T1)
+[![FLSUN-S1-Open-Source-Edition](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=FLSUN-S1-Open-Source-Edition)](https://github.com/Guilouz/FLSUN-S1-Open-Source-Edition)
+[![FLSUN-S1-Open-Source-Edition-Dependencies](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=FLSUN-S1-Open-Source-Edition-Dependencies)](https://github.com/Guilouz/FLSUN-S1-Open-Source-Edition-Dependencies)
+[![Klipper-Flsun-S1](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-S1)](https://github.com/Guilouz/Klipper-Flsun-S1)
+[![KlipperScreen-Flsun-S1](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-S1)](https://github.com/Guilouz/KlipperScreen-Flsun-S1)
+[![Flsun-S1-T1](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Flsun-S1-T1)](https://github.com/Guilouz/Flsun-S1-T1)
 
 **FLSUN V400 / SPEEDER PAD**
 
-[![Klipper-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Speeder-Pad)](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)
-[![KlipperScreen-Flsun-Speeder-Pad](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Speeder-Pad)](https://github.com/Guilouz/KlipperScreen-Flsun-Speeder-Pad)
+[![Klipper-Flsun-Speeder-Pad](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Speeder-Pad)](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)
+[![KlipperScreen-Flsun-Speeder-Pad](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Speeder-Pad)](https://github.com/Guilouz/KlipperScreen-Flsun-Speeder-Pad)
 
 
 **FLSUN SUPER RACER**
 
-[![KKlipper-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer)
-[![KlipperScreen-Flsun-Super-Racer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Super-Racer)](https://github.com/Guilouz/KlipperScreen-Flsun-Super-Racer)
-[![Klipper-Flsun-Super-Racer-Manta-M4P](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer-Manta-M4P)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer-Manta-M4P)
+[![KKlipper-Flsun-Super-Racer](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer)
+[![KlipperScreen-Flsun-Super-Racer](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=KlipperScreen-Flsun-Super-Racer)](https://github.com/Guilouz/KlipperScreen-Flsun-Super-Racer)
+[![Klipper-Flsun-Super-Racer-Manta-M4P](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Klipper-Flsun-Super-Racer-Manta-M4P)](https://github.com/Guilouz/Klipper-Flsun-Super-Racer-Manta-M4P)
 
 
 **SLICERS**
 
-[![Traduction-FR-BambuStudio](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-BambuStudio)](https://github.com/Guilouz/Traduction-FR-BambuStudio)
-[![Traduction-FR-OrcaSlicer](https://github-readme-stats.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-OrcaSlicer)](https://github.com/Guilouz/Traduction-FR-OrcaSlicer)
+[![Traduction-FR-BambuStudio](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-BambuStudio)](https://github.com/Guilouz/Traduction-FR-BambuStudio)
+[![Traduction-FR-OrcaSlicer](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Guilouz&repo=Traduction-FR-OrcaSlicer)](https://github.com/Guilouz/Traduction-FR-OrcaSlicer)
 
 <br />
 
 ## :chart_with_upwards_trend: STATS
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilouz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guilouz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Guilouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Guilouz&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilouz&radius=16&theme=github-light&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
